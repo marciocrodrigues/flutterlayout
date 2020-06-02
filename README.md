@@ -1,16 +1,15 @@
 # layout
 
-A new Flutter project.
+Layout de uma loja feito em flutter para estudo e aprendizado
 
-## Getting Started
+## iniciar
+Roda o comando flutter run para iniciar a aplicação.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## telas
+As telas são:
+  Home
+  Login
+  Detelhes do produto
+  Carrinho
+ ## Observações
+  Como o intuito é o layout, os valores estão fixos, não tendo conexão com api ou banco de dados
